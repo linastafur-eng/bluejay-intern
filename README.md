@@ -4,6 +4,13 @@ Find interns whose work fits the role, explain the evidence and give Lina a clea
 
 [Published role](https://www.ycombinator.com/companies/bluejay/jobs/jaE0uqb-software-engineer-intern)
 
+## Notion deliverables
+
+- [Bluejay take-home overview](https://app.notion.com/p/3f814dfefe6781699efbf43f9f69a5ca)
+- [Candidate review output — first ten](https://app.notion.com/p/5537a615c85f48d69e0b8954bf6e0d7b)
+
+These pages are shared with Rohan as a guest with view-only access. Candidate-level evidence and review records stay in Notion; do not copy them into this public repository. Access to any other private Notion page is not implied.
+
 ## Role perspective
 
 The checkpoints and evaluation criteria below explain the method; private evidence and literal feedback remain in the authorized Notion workspace.
@@ -16,7 +23,7 @@ Technical depth, end-to-end product building and founder-like initiative are sim
 
 Open this repository in Codex and use:
 
-> Use AGENTS.md to prepare the first pass of Bluejay engineering intern reviews. Read the authorized private Notion role brief, current review workspace and any existing feedback. Explain the search direction briefly, then deliver five evidence-backed candidate reviews in the authorized private Notion review workspace. Link the review page and stop for my feedback.
+> Use AGENTS.md to prepare the first pass of Bluejay engineering intern reviews. Read the linked take-home overview and candidate review output, plus feedback recorded there. Do not assume access to other private Notion pages. Explain the search direction briefly, then deliver five evidence-backed candidate reviews in the authorized Notion review workspace. Link the review page and stop for my feedback.
 
 Each review includes the verified profile, two or three reasons to review or hold, an evidence band and confidence, the main concern and the next check. Sources and technical detail sit beneath the summary.
 
@@ -56,4 +63,3 @@ Authorized discovery continues while sender setup is pending. See [sender setup 
 - [Technical and founder communities](technical-communities.md)
 
 Codex uses connected research, GitHub, Notion and mail tools. No local app or server setup is required. Candidate evidence, feedback, contact details and drafts stay in the authorized private Notion workspace; GitHub holds the method and source.
-
