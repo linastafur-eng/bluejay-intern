@@ -7,7 +7,7 @@ Find interns whose work fits the role, explain the evidence and give Lina a clea
 ## Notion deliverables
 
 - [Bluejay take-home overview](https://app.notion.com/p/3f814dfefe6781699efbf43f9f69a5ca)
-- [Candidate review output — first ten](https://app.notion.com/p/5537a615c85f48d69e0b8954bf6e0d7b)
+- [Candidate review output](https://app.notion.com/p/5537a615c85f48d69e0b8954bf6e0d7b)
 
 These pages are shared with Rohan as a guest with view-only access. Candidate-level evidence and review records stay in Notion; do not copy them into this public repository. Access to any other private Notion page is not implied.
 
