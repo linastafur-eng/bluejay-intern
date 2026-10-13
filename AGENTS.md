@@ -1,10 +1,10 @@
 # Bluejay internship sourcing instructions
 
-Use README.md and decision-trees.md as the project references. Candidate evidence and active-run state stay in the authorized private Notion workspace.
+Use README.md and decision-trees.md as the project references. The [Bluejay take-home overview](https://app.notion.com/p/3f814dfefe6781699efbf43f9f69a5ca) and [candidate review output](https://app.notion.com/p/5537a615c85f48d69e0b8954bf6e0d7b) are the current Notion pages shared with Rohan as view-only. Candidate evidence and active-run state stay in the review output database.
 
-Run this workflow inside Codex with connected tools. Read the authorized private Notion role brief and review process when available. Keep this project focused on Bluejay engineering internship sourcing.
+Run this workflow inside Codex with connected tools. Read the linked overview and review output, including feedback available there, before research. Do not assume access to any other private Notion page; ask Lina if another page is required. Keep this project focused on Bluejay engineering internship sourcing.
 
-Read README.md, environment.md and decision-trees.md. Use the existing source-recruiting-prospects and discover-recruiting-queries skills. Read the current private Notion role brief, sourcing method, query history, Lina feedback and authored comments before research. Surface consequential conflicts rather than overwriting human edits.
+Read README.md, environment.md and decision-trees.md. Use the existing source-recruiting-prospects and discover-recruiting-queries skills. Surface consequential conflicts rather than overwriting human edits.
 
 ## Research and review
 
