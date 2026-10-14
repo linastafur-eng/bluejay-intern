@@ -6,13 +6,26 @@ Use Codex with this repository, Exa search and page reading, public web/GitHub r
 
 No local server, standalone model key or always-on daemon is required. Provider usage limits apply. Python 3.11+ is needed only for source tests and offline helpers.
 
+## Reusable skills
+
+Load these skills in the Codex environment used for the work. They are reusable Codex procedures; their full definitions are not bundled in this public repository.
+
+| Skill | When to use it |
+| --- | --- |
+| `source-recruiting-prospects` | Required for fresh sourcing, intern-level assessment and verified delivery to the private Notion run database. |
+| `discover-recruiting-queries` | Required alongside sourcing to compare discovery routes, deduplicate people and maintain query history. |
+| `source-bluejay-interns` | Bluejay-specific compatibility entry point. It routes to `source-recruiting-prospects` and the current internship instructions; it is not a separate search method. |
+| `review-github` | Inspect candidate code and attribute implementation without executing candidate code. |
+| `write-outreach` | Use only when outreach drafts are requested; follow sender setup and approval steps in [email-handoff.md](email-handoff.md). |
+| `learn-ranking` | Interpret attributed feedback and propose evidence-supported process changes. Do not silently change active criteria. |
+
+Start with the prompt in [the review guide](README.md). Read the relevant skills before using them.
+
 ## Operator capabilities
 
 - Codex with the authorized research and public web/GitHub reading tools.
 - Access to the linked Notion overview and candidate review output. Do not assume access to other private Notion pages; Lina must grant access if an additional source is required.
 - The review criteria and sender handoff described in [README.md](README.md) and [email-handoff.md](email-handoff.md).
-
-Start with the prompt in [the review guide](README.md).
 
 ## Operator and sender access
 
