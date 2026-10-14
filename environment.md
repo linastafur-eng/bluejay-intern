@@ -14,10 +14,10 @@ The skill procedures are included below so operators and reviewers can inspect t
 | --- | --- |
 | [`source-recruiting-prospects`](skills/source-recruiting-prospects/SKILL.md) | Required for fresh sourcing, intern-level assessment and verified delivery to the private Notion run database. |
 | [`discover-recruiting-queries`](skills/discover-recruiting-queries/SKILL.md) | Required alongside sourcing to compare discovery routes, deduplicate people and maintain query history. |
-| `source-bluejay-interns` | Bluejay-specific compatibility entry point. It routes to `source-recruiting-prospects` and the current internship instructions; it is not a separate search method. |
+| [`source-bluejay-interns`](skills/source-bluejay-interns/SKILL.md) | Bluejay-specific compatibility entry point. It routes to `source-recruiting-prospects` and the current internship instructions; it is not a separate search method. |
 | [`review-github`](skills/review-github/SKILL.md) | Inspect candidate code and attribute implementation without executing candidate code. |
-| `write-outreach` | Use only when outreach drafts are requested; follow sender setup and approval steps in [email-handoff.md](email-handoff.md). |
-| `learn-ranking` | Interpret attributed feedback and propose evidence-supported process changes. Do not silently change active criteria. |
+| [`write-outreach`](skills/write-outreach/SKILL.md) | Use only when outreach drafts are requested; follow sender setup and approval steps in [email-handoff.md](email-handoff.md). |
+| [`learn-ranking`](skills/learn-ranking/SKILL.md) | Interpret attributed feedback and propose evidence-supported process changes. Do not silently change active criteria. |
 
 Start with the prompt in [the review guide](README.md). Read the relevant skills before using them.
 
