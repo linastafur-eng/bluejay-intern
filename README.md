@@ -59,6 +59,7 @@ Authorized discovery continues while sender setup is pending. See [sender setup 
 
 - [Agent instructions](AGENTS.md)
 - [Process and decision trees](decision-trees.md)
+- [Native Notion run contract](notion-runs.md)
 - [Tools and access](environment.md)
 - [Technical and founder communities](technical-communities.md)
 
