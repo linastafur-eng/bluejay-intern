@@ -8,14 +8,14 @@ No local server, standalone model key or always-on daemon is required. Provider 
 
 ## Reusable skills
 
-Load these skills in the Codex environment used for the work. They are reusable Codex procedures; their full definitions are not bundled in this public repository.
+The skill procedures are included below so operators and reviewers can inspect them. Read the relevant procedure before using it. These files document workflow; they do not install plugins or grant account access.
 
 | Skill | When to use it |
 | --- | --- |
-| `source-recruiting-prospects` | Required for fresh sourcing, intern-level assessment and verified delivery to the private Notion run database. |
-| `discover-recruiting-queries` | Required alongside sourcing to compare discovery routes, deduplicate people and maintain query history. |
+| [`source-recruiting-prospects`](skills/source-recruiting-prospects/SKILL.md) | Required for fresh sourcing, intern-level assessment and verified delivery to the private Notion run database. |
+| [`discover-recruiting-queries`](skills/discover-recruiting-queries/SKILL.md) | Required alongside sourcing to compare discovery routes, deduplicate people and maintain query history. |
 | `source-bluejay-interns` | Bluejay-specific compatibility entry point. It routes to `source-recruiting-prospects` and the current internship instructions; it is not a separate search method. |
-| `review-github` | Inspect candidate code and attribute implementation without executing candidate code. |
+| [`review-github`](skills/review-github/SKILL.md) | Inspect candidate code and attribute implementation without executing candidate code. |
 | `write-outreach` | Use only when outreach drafts are requested; follow sender setup and approval steps in [email-handoff.md](email-handoff.md). |
 | `learn-ranking` | Interpret attributed feedback and propose evidence-supported process changes. Do not silently change active criteria. |
 
